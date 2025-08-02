@@ -1,18 +1,56 @@
-# Hi, I'm Ardit 
+# 👋 Hey, I'm Admac
 
-<img src="https://github.com/admac-hub/admac-hub/blob/main/Untitled.jpg" style="width:500px;height:400px;" alt="banner that says Ardit Cuko - IT Specialist , Python praciticioner">
+I'm a full-stack developer and systems engineer focused on building practical tools that **solve real problems** — and make life easier for other developers.
 
-## About me :writing_hand:
-I'm a junior programmer who is passionate about codding and developing programms that solve real world issues,
-creating programms to make life easier. 
-I enjoy working with Powershell,  SQL , Linux and AS400 IBM mainfraime server , Yes i do know RPG. 
+---
 
+## 🧠 What I Build
 
-print(sorted([“🥚”,”🐔”]));
+### 🔐 MERN Role-Based Auth System
+Production-ready authentication boilerplate using:
+- ✅ Role-based access (User & Vendor)
+- 🔐 JWT with HTTP-only cookies
+- 🧾 Scalable backend with Express & Mongoose
+- 🧩 Clean folder structure & vendor onboarding
 
-## Find me around the web 🌎: 
-- Networking on <a href="https://www.linkedin.com/in/ardit-cuko-764133180/">Linkedin</a> 
+> 👉 Fork it, plug it in, and get building faster.
 
+---
 
-## Snake eating my countribution :snake: 
-![snake gif](https://github.com/admac-hub/admac-hub/blob/output/github-contribution-grid-snake.gif)
+### 🐍 Python Task Automation Scripts
+I also create simple but powerful Python tools for automating daily dev and ops tasks:
+- 🔄 File cleaners, PDF renamers, and report generators
+- 🗃️ Cron-ready CLI utilities for organizing local or cloud data
+- 💡 Great for sysadmins, solo devs, or students
+
+---
+
+### ⚡ Dev Kits Worth Forking
+Some of my repos are made to be cloned, customized, and launched in real apps:
+- 📦 Minimal React + Express starter projects
+- 🔧 Frontend-ready auth APIs with validation + routing
+- 🚀 Clean base apps for SaaS or admin dashboards
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript, Python, TypeScript, Bash
+- **Frontend**: React, React Native, Tailwind, Expo
+- **Backend**: Node.js, Express, MongoDB
+- **Dev Tools**: Git, Postman, Docker, Firebase, VS Code
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🔗 [GitHub Projects](https://github.com/admac-hub)
+- 📩 Open to collabs, forks, and contributions!
+
+---
+
+> *“I build things that are meant to be forked.”*
+
+---
+![](https://komarev.com/ghpvc/?username=admac-hub&color=blue)
