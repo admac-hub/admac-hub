@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Admac
+# 👋 Hey, I'm Ardit Cuko
 
 I'm a full-stack developer and systems engineer focused on building practical tools that **solve real problems** — and make life easier for other developers.
 
