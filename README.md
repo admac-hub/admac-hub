@@ -126,4 +126,3 @@ A multi-tenant platform designed to help contractors manage:
 >
 > *Building systems by day. Building products by night.*
 
-https://<img src="https://algora.io/og/user/admac-hub" />
