@@ -99,19 +99,6 @@ A multi-tenant platform designed to help contractors manage:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ardit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=admac-hub&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=admac-hub&layout=compact&hide_border=true)
-
-</div>
-
----
-
-
 
 ## 🤝 Let's Connect
 
