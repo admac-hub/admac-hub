@@ -111,7 +111,7 @@ A multi-tenant platform designed to help contractors manage:
 
 ---
 
-https://<img src="https://algora.io/og/user/admac-hub" />
+
 
 ## 🤝 Let's Connect
 
@@ -125,3 +125,5 @@ https://<img src="https://algora.io/og/user/admac-hub" />
 > *"Technology should solve problems, not create them."*
 >
 > *Building systems by day. Building products by night.*
+
+https://<img src="https://algora.io/og/user/admac-hub" />
